@@ -51,7 +51,7 @@ async function generateQuote() {
 function startAutoQuote() {
     // Function to start automatic quote generation
     autoBtn.style.backgroundColor = " #07b507d9"; // Change the background color of the quote text
-    intervalId = setInterval(generateQuote, 4000); // Generate a new quote every 5 seconds
+    intervalId = setInterval(generateQuote, 4000); // Generate a new quote every 4 seconds
     autoStatus.innerHTML = "Automatic Quote Generation Started"; // Update the status message
 
 }
