@@ -1,1 +1,1 @@
-# Random-Quotes-Generater
+# https://isa-alfares.github.io/Random-Quotes-Generater/
